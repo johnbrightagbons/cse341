@@ -1,0 +1,4 @@
+http://localhost:3000/contacts
+
+### GET contacts by ID
+http://localhost:3000/contacts/67c86d3e4d32790d5fd437c5 HTTP/1.1
